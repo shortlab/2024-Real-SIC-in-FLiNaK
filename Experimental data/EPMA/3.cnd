@@ -1,0 +1,29 @@
+$CM_TYPE            Image
+$CM_NAME            w_cairang/071024
+$CM_COMMENT         SiC                                     
+$CM_DATE            2024-07-10
+$CM_TIME            15:57:00
+$CM_INSTRUMENT      JXA-8800
+$CM_DATA_TYPE       0
+$CM_FRAME_SIZE      150 200
+$CM_DATA_BIT        16
+$CM_BYTE_ORDER      0
+$CM_ACCEL_VOLT      15.0 kV
+$CM_MAG             2000
+$CM_CURRENT         9.927e-09
+$CM_SCAN_SPEED      S4		
+$CM_ACCUMULATION    1
+$CM_PIXEL_MES       30 msec
+$CM_PIXEL_SIZE      4 4 dots
+$CM_STAGE_POS       18.6140 45.8360 12.6225 mm
+$CM_MAX_MIN_AVE     214 0 35
+$XM_APPLICATION     Map Analysis
+$XM_ELEMENT         C
+$XM_CHANNEL         5
+$XM_CRYSTAL         LDE2H   
+$XM_CRYSTAL_NO      1
+$XM_SCAN_TYPE       B
+$XM_DWELL_TIME      30 msec
+$CM_STEP_SIZE       4 4 dots
+$XM_MAP_START       -300 399 dot
+$XM_POINTS          150 200
