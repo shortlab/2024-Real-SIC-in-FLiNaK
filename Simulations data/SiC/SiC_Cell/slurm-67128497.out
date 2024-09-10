@@ -1,0 +1,75 @@
+srun: ROUTE: split_hostlist: hl=i01r2n09 tree_width 0
+ running on    4 total cores
+ distrk:  each k-point on    1 cores,    4 groups
+ distr:  one band on    1 cores,    1 groups
+ HIP runtime initialized ...    4 DCUs will be used
+ Created    4 streams on each DCU
+ vasp.6.3.2 27Jun22 (build Mar 15 2023 15:45:48) complex                        
+  
+ POSCAR found type information on POSCAR SiC 
+ POSCAR found :  2 types and      12 ions
+ Reading from existing POTCAR
+ scaLAPACK will be used selectively (only on CPU)
+ Reading from existing POTCAR
+ LDA part: xc-table for Pade appr. of Perdew
+ POSCAR found type information on POSCAR SiC 
+ POSCAR found :  2 types and      12 ions
+ Optimize memory usage for KPAR
+ POSCAR, INCAR and KPOINTS ok, starting setup
+ FFT: planning ... GRIDC
+ FFT: planning ... GRID_SOFT
+ FFT: planning ... GRID
+ WAVECAR not read
+ entering main loop
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1     0.150054365988E+03    0.15005E+03   -0.22387E+04  5952   0.140E+03
+DAV:   2    -0.887732116534E+02   -0.23883E+03   -0.22685E+03  8023   0.236E+02
+DAV:   3    -0.101317336959E+03   -0.12544E+02   -0.12463E+02  7296   0.555E+01
+DAV:   4    -0.101545667663E+03   -0.22833E+00   -0.22786E+00  7401   0.837E+00
+DAV:   5    -0.101551213116E+03   -0.55455E-02   -0.55432E-02  7221   0.126E+00    0.172E+01
+RMM:   6    -0.902661794172E+02    0.11285E+02   -0.32565E+01  5952   0.226E+01    0.560E+00
+RMM:   7    -0.904900371866E+02   -0.22386E+00   -0.12750E+01  5952   0.153E+01    0.351E+00
+RMM:   8    -0.906464099074E+02   -0.15637E+00   -0.34142E+00  5952   0.815E+00    0.246E+00
+RMM:   9    -0.903477053330E+02    0.29870E+00   -0.42741E-01  5952   0.313E+00    0.904E-01
+RMM:  10    -0.903384975561E+02    0.92078E-02   -0.33303E-01  5952   0.229E+00    0.211E-01
+RMM:  11    -0.903392733831E+02   -0.77583E-03   -0.33939E-02  5952   0.970E-01    0.119E-01
+RMM:  12    -0.903390464692E+02    0.22691E-03   -0.69306E-03  6428   0.331E-01    0.187E-02
+RMM:  13    -0.903391709468E+02   -0.12448E-03   -0.11356E-03  5976   0.163E-01    0.398E-02
+RMM:  14    -0.903391240346E+02    0.46912E-04   -0.22702E-04  5952   0.721E-02    0.921E-03
+RMM:  15    -0.903391291073E+02   -0.50726E-05   -0.40959E-05  6010   0.314E-02    0.107E-03
+RMM:  16    -0.903391291223E+02   -0.15076E-07   -0.67339E-06  4903   0.123E-02
+   1 F= -.90339129E+02 E0= -.90339129E+02  d E =-.903391E+02
+ curvature:   0.00 expect dE= 0.000E+00 dE for cont linesearch  0.000E+00
+ trial: gam= 0.00000 g(F)=  0.150E-04 g(S)=  0.106E+00 ort = 0.000E+00 (trialstep = 0.100E+01)
+ search vector abs. value=  0.106E+00
+ bond charge predicted
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.903786054008E+02   -0.39476E-01   -0.18008E+00  7149   0.781E+00    0.111E+00
+RMM:   2    -0.903464421297E+02    0.32163E-01   -0.59007E-02  5952   0.123E+00    0.543E-01
+RMM:   3    -0.903390058684E+02    0.74363E-02   -0.46475E-02  5952   0.983E-01    0.142E-01
+RMM:   4    -0.903383650559E+02    0.64081E-03   -0.80553E-03  5952   0.423E-01    0.101E-01
+RMM:   5    -0.903378678516E+02    0.49720E-03   -0.14559E-03  5955   0.180E-01    0.915E-03
+RMM:   6    -0.903379221315E+02   -0.54280E-04   -0.52895E-04  6023   0.104E-01    0.216E-02
+RMM:   7    -0.903379088257E+02    0.13306E-04   -0.61080E-05  5952   0.414E-02    0.619E-03
+RMM:   8    -0.903379092913E+02   -0.46560E-06   -0.18389E-05  5961   0.201E-02    0.956E-04
+RMM:   9    -0.903379105456E+02   -0.12543E-05   -0.57711E-06  5425   0.115E-02    0.269E-03
+RMM:  10    -0.903379102817E+02    0.26395E-06   -0.66239E-07  3650   0.439E-03
+   2 F= -.90337910E+02 E0= -.90337910E+02  d E =0.121884E-02
+ trial-energy change:    0.001219  1 .order   -0.000391   -0.106189    0.105407
+ step:   0.4904(harm=  0.5018)  dis= 0.00019  next Energy=   -90.364979 (dE=-0.258E-01)
+ bond charge predicted
+       N       E                     dE             d eps       ncg     rms          rms(c)
+DAV:   1    -0.903753896491E+02   -0.37479E-01   -0.47597E-01  7205   0.406E+00    0.573E-01
+RMM:   2    -0.903669472942E+02    0.84424E-02   -0.16271E-02  5952   0.646E-01    0.279E-01
+RMM:   3    -0.903651220005E+02    0.18253E-02   -0.12329E-02  5952   0.510E-01    0.737E-02
+RMM:   4    -0.903649468723E+02    0.17513E-03   -0.20018E-03  5952   0.215E-01    0.487E-02
+RMM:   5    -0.903648416826E+02    0.10519E-03   -0.34509E-04  5956   0.894E-02    0.472E-03
+RMM:   6    -0.903648551009E+02   -0.13418E-04   -0.12668E-04  6008   0.516E-02    0.105E-02
+RMM:   7    -0.903648501571E+02    0.49439E-05   -0.15667E-05  5949   0.207E-02    0.250E-03
+RMM:   8    -0.903648501596E+02   -0.25195E-08   -0.40961E-06  4571   0.968E-03
+   3 F= -.90364850E+02 E0= -.90364850E+02  d E =-.257210E-01
+ curvature:  -0.25 expect dE=-0.640E-06 dE for cont linesearch -0.812E-08
+ trial: gam= 0.00058 g(F)=  0.236E-05 g(S)=  0.190E-06 ort =-0.586E-04 (trialstep = 0.898E+00)
+ search vector abs. value=  0.252E-05
+ reached required accuracy - stopping structural energy minimisation
+ PROFILE, used timers:     293
