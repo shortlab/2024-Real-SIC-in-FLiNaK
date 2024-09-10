@@ -1,0 +1,29 @@
+NCORE =10 
+KPAR =6
+
+# Specify the type of calculation
+IBRION = 2      # No structural optimization
+NSW = 5          # No ionic steps
+
+# Electronic structure parameters
+ENCUT = 520      # Plane-wave cutoff energy in eV
+ISMEAR = 0       # Gaussian smearing
+SIGMA = 0.05     # Smearing width in eV
+LREAL = .FALSE.  # Disable real-space augmentation
+
+# SCF convergence criteria
+ALGO = Fast      # Fast algorithm for self-consistency
+EDIFF = 1E-6     # Energy difference for convergence in eV
+EDIFFG = -0.01   # Force convergence criterion in eV/Angstrom
+
+# K-point sampling
+KSPACING = 0.2   # Automatic k-point generation with this spacing in reciprocal Angstroms
+
+# Other options
+ISIF = 2         # Relax shape and volume but not positions (not needed here since IBRION=-1)
+ICHARG = 1       # Initial charge density from superposition of atomic densities
+LWAVE = .FALSE.  # Do not write WAVECAR file
+LCHARG = .FALSE. # Do not write CHGCAR file
+
+# Optional: Add additional flags for better accuracy or specific features
+PREC = Accurate  # High precision mode
