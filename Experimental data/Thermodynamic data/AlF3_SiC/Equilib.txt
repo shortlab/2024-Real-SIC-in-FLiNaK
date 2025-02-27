@@ -1,0 +1,43 @@
+                                                                               FactSage 8.3         
+  T = 650 C
+  P = 1.3158E-02 atm
+  V = 0 dm3
+  
+  STREAM CONSTITUENTS              AMOUNT/mol
+  AlF3                             1.0000E+00
+  SiC                              1.0000E+00
+  
+                                  EQUIL AMOUNT  MOLE FRACTION     ACTIVITY
+  PHASE: Slag-liq#1;#2                mol
+  AlF3                             0.0000E+00     1.0000E+00     5.7277E-04
+  SiF4                             0.0000E+00     1.6762E-13     7.9733E-18
+  TOTAL:                           0.0000E+00     1.0000E+00     5.7277E-04
+                                      mol                         ACTIVITY
+  SiC_Solid_Beta(s2)               1.0000E+00                    1.0000E+00
+  AlF3_perovskite_(cubic)(s2)      1.0000E+00                    1.0000E+00
+  Si_solid(s)                      0.0000E+00                    1.0000E+00
+  Al_solid(s)                      0.0000E+00                    1.0000E+00
+  AlF3_perovskite_(rhomboh(s)      0.0000E+00                    9.8055E-01
+  SiC_Solid_Alpha(s)               0.0000E+00                    7.9027E-01
+  Al4C3_solid(s)                   0.0000E+00                    6.2703E-02
+  C_Graphite(s)                    0.0000E+00                    1.8627E-04
+  C_diamond(s2)                    0.0000E+00                    9.1126E-05
+  *************************************************************************
+        Cp             H              S              G              V
+      J.K-1            J            J.K-1            J             dm3
+  *************************************************************************
+   1.475277E+02  -1.497383E+06   2.314084E+02  -1.711008E+06   0.000000E+00
+  **********************************************************
+        Cp             H              S              G
+      J.K-1            J            J.K-1            J
+  **********************************************************
+  SiC_Solid_Beta(s2)
+   4.756419E+01  -4.784134E+04   6.039669E+01  -1.035965E+05
+  AlF3_perovskite_(cubic)(s2)
+   9.996351E+01  -1.449542E+06   1.710117E+02  -1.607411E+06
+  
+  Cut-off limit for phase activities = 1.00E-70
+  
+  Databases: FToxid 8.3, FactPS 8.3                                                                  
+  Data Search options: exclude gas ions; organic CxHy.. X(max) = 2; min soln cpts = 2                
+  Final conditions: T(C) = 650, P(atm) = 0.013157895                                                 

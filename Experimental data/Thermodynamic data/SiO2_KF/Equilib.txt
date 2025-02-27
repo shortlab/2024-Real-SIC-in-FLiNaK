@@ -1,0 +1,70 @@
+                                                                               FactSage 8.3         
+  T = 650 C
+  P = 1.3158E-02 atm
+  V = 0 dm3
+  
+  STREAM CONSTITUENTS              AMOUNT/mol
+  SiO2                             1.0000E+00
+  KF                               1.0000E+00
+  
+                                  EQUIL AMOUNT  MOLE FRACTION     ACTIVITY
+  PHASE: Slag-liq#1(;#2)              mol
+  K2O                              4.0000E-01     2.5000E-01     1.0068E-18
+  SiO2                             8.0000E-01     5.0000E-01     1.0461E-01
+  KF                               2.0000E-01     1.2500E-01     1.6003E-01
+  SiF4                             2.0000E-01     1.2500E-01     8.5125E-12
+  TOTAL:                           1.6000E+00     1.0000E+00     1.0000E+00
+     Site fraction of sublattice constituents:
+     K                             0.50000         Stoichiometry calculated
+     Si                            0.50000
+     ----------------------------------------------------------------------
+     O                             0.66667         Stoichiometry calculated
+     F                             0.33333
+     System component              Amount/mol    Amount/gram   Mole fraction  Mass fraction
+     K                             1.0000         39.098         0.20000        0.33083
+     Si                            1.0000         28.085         0.20000        0.23765
+     F                             1.0000         18.998         0.20000        0.16076
+     O                             2.0000         31.999         0.40000        0.27076
+                                      mol                         ACTIVITY
+  Si_solid(s)                      0.0000E+00                    1.0000E+00
+  KF_Carobbiite_(NaCl_rock(s)      0.0000E+00                    3.0918E-01
+  SiO2_Quartz(h)(s2)               0.0000E+00                    2.1815E-01
+  SiO2_Quartz(l)(s)           T    0.0000E+00                    2.1078E-01
+  SiO2_Tridymite(h)(s4)            0.0000E+00                    2.0779E-01
+  SiO2_Cristobalite(h)(s6)         0.0000E+00                    2.0463E-01
+  K2Si2O5_Solid-3(s3)              0.0000E+00                    1.7267E-01
+  K2Si2O5_Solid-2(s2)              0.0000E+00                    1.7037E-01
+  K2Si2O5_solid(s)                 0.0000E+00                    1.4989E-01
+  SiO2_coesite(s7)                 0.0000E+00                    9.9568E-02
+  SiO2_Cristobalite(l)(s5)    T    0.0000E+00                    7.0930E-02
+  K2Si4O9_Solid-2(s2)              0.0000E+00                    2.6002E-02
+  K2Si4O9_solid(s)                 0.0000E+00                    2.5281E-02
+  SiO2_Tridymite(l)(s3)       T    0.0000E+00                    2.4368E-02
+  K2SiO3_solid(s)                  0.0000E+00                    7.9102E-04
+  SiO2_stishovite(s8)              0.0000E+00                    1.1036E-04
+  K3SiF7_solid(s)                  0.0000E+00                    1.3167E-05
+  K_solid(s)                       0.0000E+00                    8.7560E-06
+  K2SiF6_solid(s)                  0.0000E+00                    4.9858E-06
+  K4SiO4_solid(s)                  0.0000E+00                    8.2163E-14
+  K2O_solid(s)                     0.0000E+00                    1.3787E-18
+  K2O2_solid(s)               T    0.0000E+00                    9.1544E-37
+  KO2_solid(s)                     0.0000E+00                    1.2744E-39
+  *************************************************************************
+        Cp             H              S              G              V
+      J.K-1            J            J.K-1            J             dm3
+  *************************************************************************
+   1.346802E+02  -1.393430E+06   2.717626E+02  -1.644308E+06   0.000000E+00
+  **********************************************************
+        Cp             H              S              G
+      J.K-1            J            J.K-1            J
+  **********************************************************
+  Slag-liq#1
+   1.346802E+02  -1.393430E+06   2.717626E+02  -1.644308E+06
+  
+  Cut-off limit for phase activities = 1.00E-70
+  
+  Data on 4 product species identified with "T" have been extrapolated outside their valid temperature ranges
+  
+  Databases: FToxid 8.3, FactPS 8.3                                                                  
+  Data Search options: exclude gas ions; organic CxHy.. X(max) = 2; min soln cpts = 2                
+  Final conditions: T(C) = 650, P(atm) = 0.013157895                                                 

@@ -1,0 +1,156 @@
+...............................................................................
+                                                                 Page 1 [650 C]
+                                                                               FactSage 8.3         
+  T = 650 C
+  P = 1 atm
+  V = 0.26168 dm3
+  
+  STREAM CONSTITUENTS             AMOUNT/gram
+  Al                               1.0000E+00
+  O2                               1.0000E+00
+  
+                                  EQUIL AMOUNT  MOLE FRACTION     FUGACITY
+  PHASE: gas_ideal                    mol                           atm
+  O2                               3.4544E-03     1.0000E+00     1.0000E+00
+  O                                4.3073E-14     1.2469E-11     1.2469E-11
+  O3                               7.1985E-15     2.0839E-12     2.0839E-12
+  AlO2                             2.1382E-38     6.1899E-36     6.1899E-36
+  AlO                              7.6018E-42     2.2006E-39     2.2006E-39
+  Al2O3                            2.8729E-53     8.3167E-51     8.3167E-51
+  Al                               4.3410E-54     1.2567E-51     1.2567E-51
+  Al2O2                            1.1059E-57     3.2014E-55     3.2014E-55
+  Al2O                             7.2498E-69     2.0987E-66     2.0987E-66
+  TOTAL:                           3.4544E-03     1.0000E+00     1.0000E+00
+     System component              Amount/mol    Amount/gram   Mole fraction  Mass fraction
+     Al                            2.1390E-38     5.7713E-37     3.0960E-36     5.2212E-36
+     O                             6.9088E-03     0.11054        1.0000         1.0000
+                                      gram                        ACTIVITY
+  Al2O3_corundum(alpha)(s4)        1.8895E+00                    1.0000E+00
+  Al2O3_delta(s2)                  0.0000E+00                    3.4892E-01
+  Al2O3_kappa(s3)                  0.0000E+00                    2.7519E-01
+  Al2O3_gamma(s)                   0.0000E+00                    1.3361E-01
+  Al_solid(s)                      0.0000E+00                    5.8684E-40
+  *************************************************************************
+        Cp             H              S              G              V
+      J.K-1            J            J.K-1            J             dm3
+  *************************************************************************
+   2.412272E+00  -2.971506E+04   3.983945E+00  -3.339284E+04   2.616758E-01
+  **********************************************************
+        Cp             H              S              G
+      J.K-1            J            J.K-1            J
+  **********************************************************
+  gas_ideal
+   1.191606E-01   6.921596E+01   8.314484E-01  -6.983357E+02
+  Al2O3_corundum(alpha)(s4)
+   2.293112E+00  -2.978428E+04   3.152497E+00  -3.269451E+04
+  
+  Cut-off limit for gaseous fractions/phase activities = 1.00E-70
+  
+  Databases: FactPS 8.3                                                                              
+  Data Search options: exclude gas ions; organic CxHy.. X(max) = 2; min soln cpts = 2                
+  Final conditions: T(C) = 650 750 50, P(atm) = 1                                                    
+
+...............................................................................
+                                                                 Page 2 [700 C]
+                                                                               FactSage 8.3         
+  T = 700 C
+  P = 1 atm
+  V = 0.27585 dm3
+  
+  STREAM CONSTITUENTS             AMOUNT/gram
+  Al                               1.0000E+00
+  O2                               1.0000E+00
+  
+                                  EQUIL AMOUNT  MOLE FRACTION     FUGACITY
+  PHASE: gas_ideal                    mol                           atm
+  O2                               3.4544E-03     1.0000E+00     1.0000E+00
+  O                                2.3348E-13     6.7589E-11     6.7589E-11
+  O3                               1.8786E-14     5.4382E-12     5.4382E-12
+  AlO2                             4.3992E-36     1.2735E-33     1.2735E-33
+  AlO                              3.0740E-39     8.8988E-37     8.8988E-37
+  Al2O3                            5.2782E-50     1.5280E-47     1.5280E-47
+  Al                               1.0305E-50     2.9831E-48     2.9831E-48
+  Al2O2                            5.1735E-54     1.4977E-51     1.4977E-51
+  Al2O                             1.8699E-64     5.4131E-62     5.4131E-62
+  TOTAL:                           3.4544E-03     1.0000E+00     1.0000E+00
+     System component              Amount/mol    Amount/gram   Mole fraction  Mass fraction
+     Al                            4.4023E-36     1.1878E-34     6.3720E-34     1.0746E-33
+     O                             6.9088E-03     0.11054        1.0000         1.0000
+                                      gram                        ACTIVITY
+  Al2O3_corundum(alpha)(s4)        1.8895E+00                    1.0000E+00
+  Al2O3_delta(s2)                  0.0000E+00                    3.7642E-01
+  Al2O3_kappa(s3)                  0.0000E+00                    3.0414E-01
+  Al2O3_gamma(s)                   0.0000E+00                    1.5499E-01
+  Al_solid(s)                      0.0000E+00                    1.5832E-37
+  *************************************************************************
+        Cp             H              S              G              V
+      J.K-1            J            J.K-1            J             dm3
+  *************************************************************************
+   2.433277E+00  -2.959392E+04   4.111743E+00  -3.359526E+04   2.758488E-01
+  **********************************************************
+        Cp             H              S              G
+      J.K-1            J            J.K-1            J
+  **********************************************************
+  gas_ideal
+   1.200182E-01   7.519594E+01   8.377567E-01  -7.400670E+02
+  Al2O3_corundum(alpha)(s4)
+   2.313259E+00  -2.966911E+04   3.273986E+00  -3.285519E+04
+  
+  Cut-off limit for gaseous fractions/phase activities = 1.00E-70
+  
+  Databases: FactPS 8.3                                                                              
+  Data Search options: exclude gas ions; organic CxHy.. X(max) = 2; min soln cpts = 2                
+  Final conditions: T(C) = 650 750 50, P(atm) = 1                                                    
+
+...............................................................................
+                                                                 Page 3 [750 C]
+                                                                               FactSage 8.3         
+  T = 750 C
+  P = 1 atm
+  V = 0.29002 dm3
+  
+  STREAM CONSTITUENTS             AMOUNT/gram
+  Al                               1.0000E+00
+  O2                               1.0000E+00
+  
+                                  EQUIL AMOUNT  MOLE FRACTION     FUGACITY
+  PHASE: gas_ideal                    mol                           atm
+  O2                               3.4544E-03     1.0000E+00     1.0000E+00
+  O                                1.0740E-12     3.1091E-10     3.1091E-10
+  O3                               4.4674E-14     1.2933E-11     1.2933E-11
+  AlO2                             5.3608E-34     1.5519E-31     1.5519E-31
+  AlO                              6.8789E-37     1.9914E-34     1.9914E-34
+  Al2O3                            4.6279E-47     1.3397E-44     1.3397E-44
+  Al                               1.1390E-47     3.2973E-45     3.2973E-45
+  Al2O2                            1.0521E-50     3.0456E-48     3.0456E-48
+  Al2O                             1.7712E-60     5.1274E-58     5.1274E-58
+  TOTAL:                           3.4544E-03     1.0000E+00     1.0000E+00
+     System component              Amount/mol    Amount/gram   Mole fraction  Mass fraction
+     Al                            5.3677E-34     1.4483E-32     7.7693E-32     1.3102E-31
+     O                             6.9088E-03     0.11054        1.0000         1.0000
+                                      gram                        ACTIVITY
+  Al2O3_corundum(alpha)(s4)        1.8895E+00                    1.0000E+00
+  Al2O3_delta(s2)                  0.0000E+00                    4.0347E-01
+  Al2O3_kappa(s3)                  0.0000E+00                    3.3308E-01
+  Al2O3_gamma(s)                   0.0000E+00                    1.7747E-01
+  Al_solid(s)                      0.0000E+00                    2.4695E-35
+  *************************************************************************
+        Cp             H              S              G              V
+      J.K-1            J            J.K-1            J             dm3
+  *************************************************************************
+   2.452331E+00  -2.947177E+04   4.234138E+00  -3.380393E+04   2.900218E-01
+  **********************************************************
+        Cp             H              S              G
+      J.K-1            J            J.K-1            J
+  **********************************************************
+  gas_ideal
+   1.208414E-01   8.121679E+01   8.437898E-01  -7.821067E+02
+  Al2O3_corundum(alpha)(s4)
+   2.331490E+00  -2.955298E+04   3.390348E+00  -3.302182E+04
+  
+  Cut-off limit for gaseous fractions/phase activities = 1.00E-70
+  
+  Databases: FactPS 8.3                                                                              
+  Data Search options: exclude gas ions; organic CxHy.. X(max) = 2; min soln cpts = 2                
+  Final conditions: T(C) = 650 750 50, P(atm) = 1                                                    
+

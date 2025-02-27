@@ -1,0 +1,46 @@
+                                                                               FactSage 8.3         
+  T = 650 C
+  P = 1.3158E-02 atm
+  V = 0 dm3
+  
+  STREAM CONSTITUENTS              AMOUNT/mol
+  SiF4                             1.0000E+00
+  KF                               1.0000E+00
+  
+                                  EQUIL AMOUNT  MOLE FRACTION     ACTIVITY
+  PHASE: Slag-liq#1(;#2)              mol
+  KF                               6.6248E-01     4.4351E-01     3.1576E-04
+  SiF4                             8.3124E-01     5.5649E-01     4.3855E-01
+  TOTAL:                           1.4937E+00     1.0000E+00     1.0000E+00
+     Site fraction of sublattice constituents:
+     K                             0.44351         Stoichiometry calculated
+     Si                            0.55649
+     ----------------------------------------------------------------------
+     F                             1.0000          Stoichiometry calculated
+     System component              Amount/mol    Amount/gram   Mole fraction  Mass fraction
+     K                             0.66248        25.902         0.12086        0.20721
+     Si                            0.83124        23.346         0.15165        0.18676
+     F                             3.9874         75.755         0.72748        0.60603
+                                      mol                         ACTIVITY
+  K2SiF6_solid(s)                  1.6876E-01                    1.0000E+00
+  K3SiF7_solid(s)                  0.0000E+00                    5.2110E-03
+  KF_Carobbiite_(NaCl_rock(s)      0.0000E+00                    6.1004E-04
+  *************************************************************************
+        Cp             H              S              G              V
+      J.K-1            J            J.K-1            J             dm3
+  *************************************************************************
+   3.271695E+02  -2.158691E+06   4.047484E+02  -2.532335E+06   0.000000E+00
+  **********************************************************
+        Cp             H              S              G
+      J.K-1            J            J.K-1            J
+  **********************************************************
+  Slag-liq#1
+   2.846677E+02  -1.687600E+06   3.227405E+02  -1.985538E+06
+  K2SiF6_solid(s)
+   4.250178E+01  -4.710907E+05   8.200785E+01  -5.467963E+05
+  
+  Cut-off limit for phase activities = 1.00E-70
+  
+  Databases: FToxid 8.3, FactPS 8.3                                                                  
+  Data Search options: exclude gas ions; organic CxHy.. X(max) = 2; min soln cpts = 2                
+  Final conditions: T(C) = 650, P(atm) = 0.013157895                                                 
